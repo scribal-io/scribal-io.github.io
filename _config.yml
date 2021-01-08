@@ -1,0 +1,27 @@
+# Setup
+title:               Scribal
+tagline:             'Data for Decisions | Systems for Change '
+description:         'Unlocking business value through transformational technologies'
+url:                 
+baseurl:             '/lanyon-jh-test/'
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Jason Horowitz
+  url:               https://twitter.com/jasonhhorowitz
+  email:             jason@scribal.io
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom vars
+version:             1.2.0
+#google_analytics_id: #UA-XXXX-Y
+
+# Preserved Elements from Template
+# description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+# tagline:             'A Jekyll theme'

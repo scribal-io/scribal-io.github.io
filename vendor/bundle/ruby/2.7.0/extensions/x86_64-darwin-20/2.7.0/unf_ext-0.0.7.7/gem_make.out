@@ -1,0 +1,16 @@
+current directory: /Users/jasonhorowitz/Desktop/scribal-web-test/lanyon-jh-test/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/2.7.2/lib/ruby/2.7.0 -r ./siteconf20201221-21622-1lgeupj.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/jasonhorowitz/Desktop/scribal-web-test/lanyon-jh-test/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /Users/jasonhorowitz/Desktop/scribal-web-test/lanyon-jh-test/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/jasonhorowitz/Desktop/scribal-web-test/lanyon-jh-test/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20201221-21622-1nl4ite
