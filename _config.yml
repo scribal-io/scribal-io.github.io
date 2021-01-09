@@ -2,7 +2,7 @@
 title:               Scribal
 tagline:             'Data for Decisions | Systems for Change '
 description:         'Unlocking business value through transformational technologies'
-url:                 scribal-io.github.io
+url:                 https://scribal-io.github.io/lanyon-jh-test/
 baseurl:             
 paginate:            5
 permalink:           pretty
