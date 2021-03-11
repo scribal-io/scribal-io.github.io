@@ -3,6 +3,9 @@ layout: post
 title: Not Too Big to Fail    
 ---
 
+*The demise of Haven Health illustrates that for a data-driven enterprise, success depends on more than having the deepest pockets or the strongest industry connections.*
+<!--excerpt-->
+
 An important recent news story that resonated very little was the closure of Haven Health by its owners, Amazon, Berkshire Hathaway and JP Morgan Chase. When Haven Health was started amid much fanfare just under three years ago, it was heralded as a focused effort by three of the most powerful companies in the United States (and their three celebrity CEOs) to ["to figure out how to reduce health-care costs for their hundreds of thousands of U.S. employees."](https://www.wsj.com/articles/amazon-berkshire-hathaway-jpmorgan-to-partner-on-health-care-1517315659?st=4z8sqa770o9kt1j&reflink=desktopwebshare_permalink) The [prominent author-physician, Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), was appointed as Haven's leader. The alliance of the three companies was viewed as so imposing that the share prices of healthcare companies such as Aetna and CVS fell by 2-4% the day after the announcement.
 
 However, according to the *WSJ*'s recent post-mortem, even the effort's first step, [collecting data about each company's current healthcare costs proved too difficult](https://www.wsj.com/articles/why-the-amazon-jpmorgan-berkshire-venture-collapsed-health-care-was-too-big-a-problem-11610039485?st=1chnmntrhf6n9al&reflink=desktopwebshare_permalink):
