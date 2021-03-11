@@ -3,6 +3,10 @@ layout: post
 title:  Roblox & Revenue Recognition
 ---
 
+*Roblox direct listing delayed because of revenue accounting policy disagreement.*
+
+<!--excerpt--> 
+
 Parents, there's a good chance that you know a lot about [Roblox](https://corp.roblox.com/) by now.  A popular online gaming platform for kids, it is the thing that starts the family conversation around limits to screen time, the power of addiction, and the human need for fresh air and sunshine.   Many of us should thank Roblox for helping to open up those dialogues with our kids.  I know I do.
 
 The fun is just beginning for adults, though.  Starting on March 10, public investors can enjoy Roblox by purchasing their common stock [RBLX](https://www.nyse.com/quote/XNYS:RBLX).  It is a big moment for the company, and they had a few bumps in the road in getting here.  Since one of them relates to the company's revenue recognition policies - a topic we care about at Scribal - we'll look at what happened and why the SEC required the company to amend their S-1 before allowing them to proceed.
@@ -17,4 +21,4 @@ But other uses of Robux are purchases that are useful within a single session.  
 
 While noting the differences between the two, the company still chose to record all revenue the same way: in even amounts over the projected period users typically access the platform -  23 months.  But the SEC wanted to see the distinction between virtual durable and consumable goods made within Roblox's revenue policy before signing off.  Accordingly, consumables should be considered as earned when the user performs the requisite action.  In the example above, that would be when the user buys the in-game potion.  
   
-It appears that Roblox could not obtain the granular details to distinguish between the two types of virtual goods and so chose a single basis of estimation.  And this is a common enough case: it isn't always that the company misunderstands the economic implications of what they are delivering.   More often, it is the more mundane question of where to spend their investment dollars -  build a better product for customers or build deeper analytics for reporting?  Sometimes that is a hard tradeoff.  It's 20/20 hindsight, but if you own equity in Roblox today, you might have wished that the company was able to pull revenue event data from the platform a little bit earlier.  That might have meant bringing shares to the public market at a more advantageous time to sell.
+It appears that Roblox could not obtain the granular details to distinguish between the two types of virtual goods and so chose a single basis of estimation.  And this is a common enough case: it isn't always that the company misunderstands the economic implications of what they are delivering.   More often, it is the more mundane question of where to spend their investment dollars -  build a better product for customers or build deeper analytics for reporting?  Sometimes that is a hard tradeoff.  It's 20/20 hindsight, but if you own equity in Roblox today, you might have wished that the company was able to pull revenue event data from the platform a little bit earlier.  That might have meant bringing shares to the public market at an even more advantageous time to sell.
