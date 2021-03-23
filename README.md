@@ -48,4 +48,12 @@ Following are some helpful resources for deploying a Lanyon-based site:
 - [Building your own Personal Website in Jekyll](https://chrisschuld.com/2019/02/building-your-own-website-in-jekyll/)
 - [How to set up lanyon-plus jekyll theme](https://davidbarber.github.io/readme/)
 
+## Google Analytics
+
+For a basic view of your website's traffic, you can look at the ["Insights" tab](https://github.com/scribal-io/scribal-io.github.io/graphs/traffic) in the repo with your Github pages code. There is no need to install anything.
+
+Sooner or later, most website operators want more insights and power features for their analytics. Google Analytics is a free, default option with wide adoption among experts. While powerful, GA is tricky to configure, all the more so on a DIY platform like Jekyll for GHP. At the time of writing (Mar 2021), [this blog post provides the most accurate instructions](https://desiredpersona.com/google-analytics-jekyll/) for installing Google analytics on a Jekyll-based GHP website. This tutorial provides [step-by-step instructions on setting up a Google Analytics account and setting up "properties" within the account](https://blog.hootsuite.com/how-to-set-up-google-analytics/) though many of the screenshot illustrations are drawn from previous versions of GA, not the current Google Analytics 4 (GA4) version of the product. Finally, [this tutorial walks you through troubleshooting steps](https://holini.com/google-analytics-isnt-working/) if you try to set up GA and it isn't working. Again,the post and the examples are a couple years old, but the troubleshooting methodology is solid. The tag manager extension was invaluable in helping us to get our installation working.
+
+
+
 
