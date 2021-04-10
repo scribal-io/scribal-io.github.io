@@ -36,4 +36,57 @@
     ga('send', 'pageview');
   </script>
   {% endif %}
+
+  <!-- Following is code for "Contact Us" form -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>This is the title</title>  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+ <!-- <script src=”https://code.jquery.com/jquery-3.2.1.slim.min.js” integrity=”sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN” crossorigin=”anonymous”></script>
+-->
+ <script src=https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js integrity=”sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q” crossorigin=”anonymous”></script>
+  <!--<script src=”https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js” integrity=”sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl” crossorigin=”anonymous”></script>
+  -->
+    <script>
+         <!--
+          function initContactForm() {
+  var contactForm = $('#customer-contact-form');
+  contactForm.submit(function(event) {
+    event.preventDefault();
+    var submitBtn = $("#contact-form-submit-button");
+    submitBtn.attr("disabled", true);
+    $('#contact-form-failed-to-submit').addClass('form-hidden');
+
+    var req = {
+        name:           $('#contact_message_name').val(),
+        phone_or_email: $('#contact_message_phone_or_email').val(),
+        text:           $('#contact_message_text').val(),
+    };
+
+    submitBtn.addClass('form-hidden');
+    $('#contact-form-loading-submit-button').removeClass('form-hidden');
+
+    $.ajax({
+        type: 'POST',
+        url: contactForm.attr('action'),
+        data: JSON.stringify(req),
+        contentType: "application/json",
+        dataType: 'json',
+        encode: true,
+    }).done(function() {
+      $('#contact-form-loading-submit-button').addClass('form-hidden');
+      $('#contact-form-was-submitted').removeClass('form-hidden');
+      contactForm.find('.form-group').addClass('form-hidden');
+    }).fail(function(err) {
+      $('#contact-form-loading-submit-button').addClass('form-hidden');
+      $('#contact-form-failed-to-submit').removeClass('form-hidden');
+      submitBtn.attr('disabled', false).removeClass('form-hidden');
+    });
+  });
+  }
+
+  $(document).ready(initContactForm);
+         //-->
+  </script>
+
 </head>
