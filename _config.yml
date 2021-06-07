@@ -1,6 +1,6 @@
 # Setup
 title:               Scribal
-tagline:             'Data for Decisions | Systems for Change '
+tagline:             'Revenue Growth Through Subscription Finance'
 description:         'Unlocking business value through transformational technologies'
 url:                 https://www.scribal.io/
 baseurl:             
@@ -28,3 +28,4 @@ google_analytics: G-ZC97505LX9
 # Preserved Elements from Template
 # description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 # tagline:             'A Jekyll theme'
+# tagline:             'Data for Decisions | Systems for Change '
