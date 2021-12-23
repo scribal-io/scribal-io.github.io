@@ -3,7 +3,7 @@ layout: post
 title:  The Future of Subscriptions, Part Two
 ---
 
-*How subscriptions will change as ad-supported businesses embrace them*
+*How subscriptions will change as ad-supported businesses embrace them.*
 
 <!--excerpt--> 
 
